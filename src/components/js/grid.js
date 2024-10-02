@@ -15,7 +15,7 @@ export default class Grid {
     this.MAX_ZOOM = comp.config.MAX_ZOOM;
 
     if (Utils.is_mobile) this.MIN_ZOOM *= 0.5;
-
+    console.log("shruti's code 2",canvas);
     this.canvas = canvas;
     this.ctx = canvas.getContext("2d");
     this.comp = comp;

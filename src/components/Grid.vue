@@ -185,6 +185,8 @@ export default {
   mounted() {
     //  console.log("props:",this.priceLine);
     const el = this.$refs["canvas"];
+    console.log("shruti's code 1",el);
+    
     this.renderer = new Grid(el, this);
     this.setup();
     this.$nextTick(() => this.redraw());
