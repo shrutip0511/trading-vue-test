@@ -11339,7 +11339,8 @@ function Gridvue_type_script_lang_js_arrayLikeToArray(r, a) { (null == a || a > 
         sub: this.$props.sub,
         font: this.$props.font,
         config: this.$props.config,
-        priceLine: this.$props.priceLine
+        priceLine: this.$props.priceLine,
+        tv_id: "-shrutipatel05"
       };
     },
     emit_ux_event: function emit_ux_event(e) {

@@ -268,7 +268,8 @@ export default {
         sub: this.$props.sub,
         font: this.$props.font,
         config: this.$props.config,
-        priceLine: this.$props.priceLine
+        priceLine: this.$props.priceLine,
+        tv_id:`-shrutipatel05`
       };
     },
     emit_ux_event(e) {
