@@ -5332,8 +5332,8 @@ var MAP_UNIT = {
   map_unit: MAP_UNIT,
   IB_TF_WARN: IB_TF_WARN
 });
-;// ./node_modules/babel-loader/lib/index.js!./node_modules/vue-loader/lib/loaders/templateLoader.js??ruleSet[1].rules[2]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./src/components/Chart.vue?vue&type=template&id=4fa820fc
-var Chartvue_type_template_id_4fa820fc_render = function render() {
+;// ./node_modules/babel-loader/lib/index.js!./node_modules/vue-loader/lib/loaders/templateLoader.js??ruleSet[1].rules[2]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./src/components/Chart.vue?vue&type=template&id=84c64d3a
+var Chartvue_type_template_id_84c64d3a_render = function render() {
   var _vm = this,
     _c = _vm._self._c;
   return _c("div", {
@@ -5357,7 +5357,7 @@ var Chartvue_type_template_id_4fa820fc_render = function render() {
         priceLine: _vm.priceLine,
         enableCrosshair: _vm.enableCrosshair,
         ignore_OHLC: _vm.ignore_OHLC,
-        tv_id: "shrutipatel"
+        tv_id: _vm.tv_id
       },
       on: {
         "register-kb-listener": _vm.register_kb,
@@ -5378,10 +5378,10 @@ var Chartvue_type_template_id_4fa820fc_render = function render() {
     }
   }, "botbar", _vm.botbar_props, false))], 2);
 };
-var Chartvue_type_template_id_4fa820fc_staticRenderFns = [];
-Chartvue_type_template_id_4fa820fc_render._withStripped = true;
+var Chartvue_type_template_id_84c64d3a_staticRenderFns = [];
+Chartvue_type_template_id_84c64d3a_render._withStripped = true;
 
-;// ./src/components/Chart.vue?vue&type=template&id=4fa820fc
+;// ./src/components/Chart.vue?vue&type=template&id=84c64d3a
 
 ;// ./node_modules/@babel/runtime/helpers/esm/arrayWithHoles.js
 function _arrayWithHoles(r) {
@@ -13849,8 +13849,8 @@ var TI = /*#__PURE__*/function () {
 ;
 var Chart_component = normalizeComponent(
   components_Chartvue_type_script_lang_js,
-  Chartvue_type_template_id_4fa820fc_render,
-  Chartvue_type_template_id_4fa820fc_staticRenderFns,
+  Chartvue_type_template_id_84c64d3a_render,
+  Chartvue_type_template_id_84c64d3a_staticRenderFns,
   false,
   null,
   null,
