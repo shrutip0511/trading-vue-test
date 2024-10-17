@@ -1,5 +1,5 @@
 /*!
- * TradingVue.JS - v1.0.3 - Wed Oct 02 2024
+ * TradingVue.JS - v1.0.3 - Thu Oct 17 2024
  *     https://github.com/tvjsx/trading-vue-js
  *     Copyright (c) 2019 C451 Code's All Right;
  *     Licensed under the MIT license
@@ -5332,8 +5332,8 @@ var MAP_UNIT = {
   map_unit: MAP_UNIT,
   IB_TF_WARN: IB_TF_WARN
 });
-;// ./node_modules/babel-loader/lib/index.js!./node_modules/vue-loader/lib/loaders/templateLoader.js??ruleSet[1].rules[2]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./src/components/Chart.vue?vue&type=template&id=a8fed6b0
-var Chartvue_type_template_id_a8fed6b0_render = function render() {
+;// ./node_modules/babel-loader/lib/index.js!./node_modules/vue-loader/lib/loaders/templateLoader.js??ruleSet[1].rules[2]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./src/components/Chart.vue?vue&type=template&id=4fa820fc
+var Chartvue_type_template_id_4fa820fc_render = function render() {
   var _vm = this,
     _c = _vm._self._c;
   return _c("div", {
@@ -5356,7 +5356,8 @@ var Chartvue_type_template_id_a8fed6b0_render = function render() {
         applyShaders: _vm.applyShaders,
         priceLine: _vm.priceLine,
         enableCrosshair: _vm.enableCrosshair,
-        ignore_OHLC: _vm.ignore_OHLC
+        ignore_OHLC: _vm.ignore_OHLC,
+        tv_id: "shrutipatel"
       },
       on: {
         "register-kb-listener": _vm.register_kb,
@@ -5377,10 +5378,10 @@ var Chartvue_type_template_id_a8fed6b0_render = function render() {
     }
   }, "botbar", _vm.botbar_props, false))], 2);
 };
-var Chartvue_type_template_id_a8fed6b0_staticRenderFns = [];
-Chartvue_type_template_id_a8fed6b0_render._withStripped = true;
+var Chartvue_type_template_id_4fa820fc_staticRenderFns = [];
+Chartvue_type_template_id_4fa820fc_render._withStripped = true;
 
-;// ./src/components/Chart.vue?vue&type=template&id=a8fed6b0
+;// ./src/components/Chart.vue?vue&type=template&id=4fa820fc
 
 ;// ./node_modules/@babel/runtime/helpers/esm/arrayWithHoles.js
 function _arrayWithHoles(r) {
@@ -13844,8 +13845,8 @@ var TI = /*#__PURE__*/function () {
 ;
 var Chart_component = normalizeComponent(
   components_Chartvue_type_script_lang_js,
-  Chartvue_type_template_id_a8fed6b0_render,
-  Chartvue_type_template_id_a8fed6b0_staticRenderFns,
+  Chartvue_type_template_id_4fa820fc_render,
+  Chartvue_type_template_id_4fa820fc_staticRenderFns,
   false,
   null,
   null,
