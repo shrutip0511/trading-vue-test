@@ -7338,6 +7338,7 @@ var Grid = /*#__PURE__*/function () {
         range: this.range,
         interval: this.interval,
         tf: layout.ti_map.tf,
+        tv_id: "shrutipatel3",
         cursor: this.cursor,
         colors: this.$p.colors,
         sub: this.data,
