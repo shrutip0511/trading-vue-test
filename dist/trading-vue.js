@@ -11295,7 +11295,8 @@ function Gridvue_type_script_lang_js_arrayLikeToArray(r, a) { (null == a || a > 
               settings: d.settings,
               i0: d.i0,
               tf: d.tf,
-              last: d.last
+              last: d.last,
+              tv_id: "".concat(this.tv_id, "-shrutipatel2")
             });
             count[d.type] = 0;
           }
